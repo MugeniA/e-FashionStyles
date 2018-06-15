@@ -1,0 +1,13 @@
+#social li {
+	display: inline;
+	background-color:rgb(77, 255, 77);
+	display:inline-block;
+	border-radius: 50%;
+	height: 90px;
+	width:90px;
+	margin-right: 300px;
+
+}
+#products{
+	color:white;
+}
